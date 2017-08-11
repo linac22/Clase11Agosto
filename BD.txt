@@ -1,0 +1,14 @@
+-	config: parametrizar el sistema
+-	git config --local user.name.
+-	git config --local user.username.
+-	git config --local user.email.
+-	init: crea una carpeta oculta .git en la carpeta donde se esté ubicado.
+-	clone: clona un proyecto de la reg o la ubicación seleccionada.
+-	add: agrega los archivos a realizar el commit.
+-	commit: crea el histórico de los archivos a salvar.
+-	para hacer el commit se debe realizar los siguiente:
+1.	git add <nombre archivo>
+2.	git commit -m <“comentario”> con las comillas dobles.
+-	push: lleva los archivos a un repositorio aparte.
+-	git push origin <nombre rama>: envía la rama a la url para actualizar el repositorio.
+-	remote: referencia el proyecto a la red.
